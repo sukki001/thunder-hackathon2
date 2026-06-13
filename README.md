@@ -4,7 +4,7 @@ Link : [sukkicompiler.netlify.app](https://sukkicompiler.netlify.app/)
 
 ## How to Use
 
-1. Run the "sukkiHackathon.cpp" file, the fiel it self contains all the necessary code.
+1. Run the "sukkiHackathon.cpp" file, the file it self contains all the necessary code.
 2. Give your Js code in the input of the terminal (as I've used "while (getline(cin, line))")
 3. After writing the code in the next line and write END (capital and without any quotes) 
   soo that my compiler get's to know that user is done giving the input and time to compile and execute.
