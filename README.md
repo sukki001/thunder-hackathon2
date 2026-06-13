@@ -12,10 +12,10 @@ Link : [sukkicompiler.netlify.app](https://sukkicompiler.netlify.app/)
 
 ##Note:
 
-1.Dear Sir (Rohit bhiaya nd all the TAs) as time was very limited, some of the functionalities have default working only
+1.Dear Sir (Rohit bhaiya nd all the TAs) as time was very limited, some of the functionalities have default working only
   means if you're writing if and else, kindly write else in the next line insted of the same line of "}"  of if.
 
-2.please add brackets whenever needed like we usually don't write brackets when we have one line code after condition please add brackets.
+2.please add brackets whenever needed like we usually don't write brackets when we have one line code after condition, please add brackets.
 
 3. I've written all the 5 test cases in the testcases.js file, with the "END" condition, soo you can simple copy code from there and paste it in the
    input while you were testing.
