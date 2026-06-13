@@ -9,7 +9,9 @@ Link : [sukkicompiler.netlify.app](https://sukkicompiler.netlify.app/)
 3. After writing the code in the next line and write END (capital and without any quotes) 
   soo that my compiler get's to know that user is done giving the input and time to compile and execute.
 
-Note:
+
+##Note:
+
 1.Dear Sir (Rohit bhiaya nd all the TAs) as time was very limited, some of the functionalities have default working only
   means if you're writing if and else, kindly write else in the next line insted of the same line of "}"  of if.
 
